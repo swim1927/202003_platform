@@ -12,3 +12,7 @@ if note.replace(" ", "").strip(string.punctuation).isalpha():
 else:
     print('입력 형식이 잘못되었습니다.')
 
+
+
+
+
